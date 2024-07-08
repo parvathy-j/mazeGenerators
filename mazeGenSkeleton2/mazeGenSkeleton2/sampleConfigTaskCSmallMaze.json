@@ -1,0 +1,8 @@
+{
+  "levelSpecs": [[3, 3], [3, 3], [3, 3]],
+  "entrances": [[0, 0, 1], [0, 2, -1]],
+  "exits": [[2, 1, 1], [2, 0, -1]],
+  "generator": "recur",
+  "solver": "taskC",
+  "visualise": true
+}
